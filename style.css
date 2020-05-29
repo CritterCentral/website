@@ -15,6 +15,10 @@ body {
   background-image: url(assets/port.svg);
 }
 
+.header-hover {
+  height: 200px;
+}
+
 footer {
   background: black;
   color: white;
