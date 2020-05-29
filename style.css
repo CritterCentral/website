@@ -1,0 +1,59 @@
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Luckiest Guy', cursive;
+}
+
+body {
+  font-family: arial;\
+  margin: 0;
+  color: black;
+}
+
+.header {
+  padding: 45px;
+  color: white;
+  text-align: center;
+  background-image: url(assets/port.svg);
+}
+
+footer {
+  background: black;
+  color: white;
+}
+
+nav li {
+  display: inline;
+  color: black;
+  padding: 5px;
+  float: right;
+  padding-top: 4.3mm;
+}
+
+nav li:hover {
+  transition: all 0.2s ease;
+  text-transform: lowercase;
+  opacity: 0.2;
+}
+
+nav li a: hover {
+  color: rgb(75, 75, 75);
+}
+
+nav li a {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav li,h3 {
+  display: inline;
+}
+
+nav h3 {
+  float: left;
+}
+
+.comingsoon {
+  font-family: cursive;
+}
